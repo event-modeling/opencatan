@@ -27,3 +27,6 @@ There are a number of areas that this project will address:
 * LibreOffice Draw for the event model until a suitable markdown-like format becomes available.
 * 0-tech JavaScript - no bloat from node_modules or other frameworks or libraries.
 
+# Chat
+
+Currently ussing (gitterIM)[https://gitter.im/Event-Modeling/openkatan]
