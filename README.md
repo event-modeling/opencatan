@@ -1,6 +1,6 @@
-# openKatan
+# openCatan
 
-Katan is a very popular board game that's enjoyed by millions around the world. It could be the poster child for (Event Modeling)[https://eventm;odeling.org] like the Bowling game is for Test Driven Development. This project will look at addressing some other goals in addition to showing Event Modeling.
+Catan is a very popular board game that's enjoyed by millions around the world. It could be the poster child for (Event Modeling)[https://eventm;odeling.org] like the Bowling game is for Test Driven Development. This project will look at addressing some other goals in addition to showing Event Modeling.
 
 # Setup
 
@@ -29,4 +29,4 @@ There are a number of areas that this project will address:
 
 # Chat
 
-Currently ussing (gitterIM)[https://gitter.im/Event-Modeling/openkatan]
+Currently ussing (gitterIM)[https://gitter.im/Event-Modeling/opencatan]
